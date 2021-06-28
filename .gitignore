@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 token.json
+data.xlsx
 
 # C extensions
 *.so
