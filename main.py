@@ -12,7 +12,7 @@ def main():
         pass
     else:
         setup()
-        
+
     while True:
         BTC_USD = round(btc_in_usd(), 2)
         USD_EUR = round(usd_in_eur(), 2)
